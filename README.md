@@ -1,4 +1,4 @@
-# 🧐 Agentic RAG with Reasoning
+#  Agentic RAG with Reasoning
 A sophisticated RAG system that demonstrates an AI agent's step-by-step reasoning process using Agno, Claude and OpenAI. This implementation allows users to upload documents, add web sources, ask questions, and observe the agent's thought process in real-time.
 
 
